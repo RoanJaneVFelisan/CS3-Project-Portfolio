@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| **Team Members**           | 1.  Felisan, Roan Jane V.    |
+|                            | 2.  Arendain, Raine Althea O.    |
+|                            | 3.  De Mesa, Joaquin Sancho G.    |
+|                            | 4.  Diente, Herlie Vince B.    |
+|                            | 5.  Rufino, Kieffer Thomas B.    |
+|                            | 6.  Sottomayor, Paula Mhelleonnah    |
 | **PSHS-DRC Area/Location** |         |
 
 ---
