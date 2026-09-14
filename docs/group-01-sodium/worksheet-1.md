@@ -82,8 +82,9 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1.Student Representative        |Creates and submits an OTC request, enters student details, and monitors the request status.              |
+| 2. Parent/Guardian       |              |Reviews the request and provides digital consent for their child to stay beyond curfew.
+| 3. Approving Authority / Teacher |Reviews submitted requests and approves or rejects them digitally.
 
 ### 3. What are the essential features?
 
