@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** | OTC-Pass: Automated Over-the-Curfew Request and Approval System        |
 | **Team Members**           | 1.  Felisan, Roan Jane V.    |
 |                            | 2.  Arendain, Raine Althea O.    |
 |                            | 3.  De Mesa, Joaquin Sancho G.    |
