@@ -37,10 +37,10 @@
 
 **(Up to two roles only.)**
 
-| Person/Role | Responsibility in the Process |
-| ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+|           Person/Role           |                                            Responsibility in the Process                                      |
+| --------------------------------| ------------------------------------------------------------------------------------------------------------- |
+| 1. Student Representative       | Prepares the OTC request, collects required signatures, fills out the student roster, and submits the request.|
+| 2. Approving Authority / Teacher| Reviews the request and gives the final approval for the students to stay beyond curfew.                      |
 
 ### 4. What are the steps in the current process?
 
