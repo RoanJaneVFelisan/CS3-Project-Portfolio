@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** |OTC-Pass: Automated Over-the-Curfew Request and Approval System         |
 | **Team Members**           | 1.      |
 |                            | 2.      |
 |                            | 3.      |
@@ -48,7 +48,7 @@
 | ---- | ------------- | -------------------- |
 | 1    | Student downloads and edits the parent consent template with specific post-curfew details (e.g., training until 6:30 PM).| Student Representative|
 | 2    | Student collects signed physical consent forms from parents and secures the supervising teacher's physical signature.| Student Representative|
-| 3    | Student goes to the Student Services Office (next to the registrar) to obtain a physical OTC master list form.| Student Representative|
+| 3    | Student goes to the Student Services Department Office (next to the registrar) to obtain a physical OTC master list form.| Student Representative|
 | 4    | Student fills out the roster of participating students and manually submits the entire physical paper packet to the designated officer (e.g., Ma'am Janice/Jearvy).| Student Representative|
 | 5    | Office staff reviews and processes the paper request over a 3-day waiting period until final signed approval is granted.| Approving Authority / Teacher|
 
