@@ -15,7 +15,7 @@
 |                            | 4.  Diente, Herlie Vince B.    |
 |                            | 5.  Rufino, Kieffer Thomas B.    |
 |                            | 6.  Sottomayor, Paula Mhelleonnah    |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Student Services Department Office / Student Services Area      |
 
 ---
 
@@ -58,7 +58,7 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The main difficulty observed is that the OTC filing process is highly manual. It requires several physical forms, signatures, and submissions involving different people and offices. The 3-day processing period can also be inconvenient for students who must remain past my curfew for certain necessities, especially request is needed on short notice.
 
 <br>
 
