@@ -58,7 +58,7 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> The main difficulty observed is that the OTC filing process is highly manual. It requires several physical forms, signatures, and submissions involving different people and offices. The 3-day processing period can also be inconvenient for students who must remain past my curfew for certain necessities, especially request is needed on short notice.
+> The main difficulty observed is that the OTC filing process is highly manual. It requires several physical forms, signatures, and submissions involving different people and offices. The 3-day processing period can also be inconvenient for students who must remain past the curfew for certain necessities, especially when the request is needed on short notice.
 
 <br>
 
