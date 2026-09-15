@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> *The current process needs physical requirements such as consent forms and signatures that take a lot of time to submit and approve.*
 
 <br>
 
@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> *Allow students, guardians, and staff go through the entire process efficiently through digital requests.*
 
 <br>
 
