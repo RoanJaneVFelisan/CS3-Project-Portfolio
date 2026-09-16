@@ -64,7 +64,7 @@
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The final part of the process, which is reviewing and approving the request, can be automated. Requests can be submitted online and approved with e-signatures. This can not only make the process more convenient but also takes less time.
 
 <br>
 
@@ -92,6 +92,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1.    Filing request digitally  |     Allows students to submit a request online, reducing paperworks.    |
+| 2.   Secure consent   |    Ensures requests are approve securely and avoid dishonesty.     |
+| 3.    Accessible status tracking   |     Checks the status of the request anytime.    |
