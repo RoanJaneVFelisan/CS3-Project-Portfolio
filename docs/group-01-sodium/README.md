@@ -11,4 +11,4 @@
 
 ## Project Title
 
-_To be determined._
+_OTC-Pass: Automated Over-the-Curfew Request and Approval System_
