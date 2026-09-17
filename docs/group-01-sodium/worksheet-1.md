@@ -29,7 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> *The purpose of the aforementioned process is to log absences and tardiness of students and excuse them should they have a valid reason.
+> The purpose of the aforementioned process is to log absences and tardiness of students and excuse them should they have a valid reason.
 
 <br>
 
