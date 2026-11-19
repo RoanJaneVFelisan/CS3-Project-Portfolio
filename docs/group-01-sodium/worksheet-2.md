@@ -15,16 +15,11 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | Student | Files and requests the OTC form |
+| 2 | Management_Committee | Reviews and approves the submitted OTC form by the student |
+| 3 | OTC_Form | File containing the request by the student representative to the MANCOM |
+| 4 | Email | System message sent to the involved students and teachers regarding the approval status of the OTC form |
+| 5 | Teacher | Receives the email regarding the OTC form's approval status |
 
 ### Object Evaluation
 
@@ -48,14 +43,9 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| 1 | Student | Files / Requests | OTC_Form |
+| 2 | Management_Committee | Reviews / Approves | OTC_Form |
+| 3 | OTC_Form | Emailed to | Student / Teachers |
 
 ---
 
