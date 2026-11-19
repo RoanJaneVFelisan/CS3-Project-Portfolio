@@ -67,11 +67,9 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |Student |The primary users of this system |
+| 2 |Management_Committee |The ones receiving the requests submitted by the students |
+| 3 |OTC_Form |The object being interacted with by the students and MANCOM |
 
 ---
 
@@ -81,10 +79,10 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Student
 
 **Purpose:**  
-__________________________________________________
+Represents the student requesting an OTC approval
 
 #### Attributes
 
