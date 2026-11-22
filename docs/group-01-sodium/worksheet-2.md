@@ -122,6 +122,33 @@ __________________________________________________
 
 ---
 
+### Class No. 3
+
+**Class Name:** __________________________________
+
+**Purpose:**  
+__________________________________________________
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+
+---
+
 **Additional Classes:** Add another copy of the Class Analysis section for each additional class you identify.
 
 **Reminder:** Keep your project simple. Avoid creating unnecessary classes.
