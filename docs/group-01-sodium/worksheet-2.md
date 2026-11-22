@@ -77,18 +77,19 @@ Represents the student requesting an OTC approval
 #### Attributes
 
 | Attribute | Description |
-|---|---|
-| | |
-| | |
-| | |
-| | |
+|:---:|---|
+|student_id_number: str|identifier for each student|
+|name: str|Full name of the student|
+|sex: str |Biological sex|
+|age: int |Age of the student|
+|grade_&_section: str |Grade and section assigned to the student|
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
+|file_OTC()|It allows a student to file an OTC Form|
+|view_status()|Allows student to check the current approval status of their form|
 | | |
 | | |
 
