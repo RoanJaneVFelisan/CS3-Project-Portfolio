@@ -115,9 +115,9 @@ __________________________________________________
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
+|reviews_OTC_form() |Reads and verifies the details of the submitted OTC form|
+|approves_OTC_form() |Updates form status to approved |
+|rejects_OTC_form() |Updates form status to rejected |
 | | |
 
 ---
