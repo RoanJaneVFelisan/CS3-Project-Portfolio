@@ -1,4 +1,4 @@
-<img width="1045" height="156" alt="image" src="https://github.com/user-attachments/assets/534af267-abc4-400b-b7c3-37fab74d2e63" /># WORKSHEET 2
+# WORKSHEET 2
 ## Identify Objects, Classes, and Relationships
 
 **Instructions:** Use the process and proposed system from Worksheet 1 to complete this worksheet.
