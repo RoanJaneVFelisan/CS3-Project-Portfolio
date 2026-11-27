@@ -90,8 +90,6 @@ Represents the student requesting an OTC approval
 |---|---|
 |file_OTC()|It allows a student to file an OTC Form|
 |view_status()|Allows student to check the current approval status of their form|
-| | |
-| | |
 
 ---
 
@@ -106,10 +104,9 @@ Represents the committee responsible for evaluating and approving submitted requ
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|position: str |Member’s role/title within the MANCOM |
+|name_of_the_approver: str |Full name of the reviewer |
+|department: str |Department/office the member belongs to |
 
 #### Methods
 
@@ -118,7 +115,6 @@ Represents the committee responsible for evaluating and approving submitted requ
 |reviews_OTC_form() |Reads and verifies the details of the submitted OTC form|
 |approves_OTC_form() |Updates form status to approved |
 |rejects_OTC_form() |Updates form status to rejected |
-| | |
 
 ---
 
