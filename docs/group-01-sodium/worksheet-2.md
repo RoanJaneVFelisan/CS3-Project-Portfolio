@@ -120,7 +120,7 @@ Represents the committee responsible for evaluating and approving submitted requ
 
 ### Class No. 3
 
-**Class Name:** __________________________________
+**Class Name:** OTC Form
 
 **Purpose:**  
 __________________________________________________
