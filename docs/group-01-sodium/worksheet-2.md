@@ -129,9 +129,9 @@ __________________________________________________
 
 | Attribute | Description |
 |---|---|
-|position: str |Member’s role/title within the MANCOM |
-|name_of_the_approver: str |Full name of the reviewer |
-|department: str |Department/office the member belongs to |
+|form_id: str |Unique identifier for each OTC Form |
+|student_id_number: str |	Identifies the student who submitted the form. |
+|status: str |Current approval status of the form |
 
 #### Methods
 
