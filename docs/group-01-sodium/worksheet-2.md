@@ -128,13 +128,10 @@ __________________________________________________
 #### Attributes
 
 | Attribute | Description |
-|form_id: str |	Unique identifier for each OTC Form.|
-|student_id_number: | str	Identifies the student who submitted the form.|
-|date_submitted: str |	Date when the OTC Form was submitted.|
-purpose: str	Reason for requesting an OTC approval.
-status: str	Current approval status of the form (Pending, Approved, or Rejected).
-remarks: str 
-Comments or explanations provided by the MANCOM regarding its decision.
+|---|---|
+|position: str |Member’s role/title within the MANCOM |
+|name_of_the_approver: str |Full name of the reviewer |
+|department: str |Department/office the member belongs to |
 
 #### Methods
 
